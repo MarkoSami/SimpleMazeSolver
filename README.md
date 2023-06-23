@@ -29,4 +29,4 @@ Feel free to contribute, provide feedback, or use this repository to learn and e
 
 - notice that the solver will try to find a path between the first and the last vertex you add to the maze
 
-![](https://github.com/SimpleMazeSolver/Desktop_2023_06_23_-_07_09_22_01_AdobeExpress.gif)
+![](https://github.com/MarkoSami/SimpleMazeSolver/Desktop_2023_06_23_-_07_09_22_01_AdobeExpress.gif)
